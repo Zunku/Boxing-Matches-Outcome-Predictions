@@ -1,4 +1,4 @@
-# 🏠 Boxing Matches Predictions - EDA and Machine Learning Pipeline
+# 🏠 Boxing Matches Outcome Predictions
 
 ## 🎯 Problem Description
 
