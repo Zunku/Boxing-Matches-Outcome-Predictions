@@ -37,7 +37,7 @@ Development of a machine learning model that predicts the winer based on charact
 - Stance is the most important factor in price 43% importance).
 - Linear models (Logistic Regression) significantly outperformed ensamble methods.
 - Feature engineering improved performance by 7%.
-- The model generalizes well to areas not seen during training.
+- In dataframes that refer to multiple individuals in a single row, join them with the difference between them (feature engineering).
 
 ## 📞 Contact me
 
